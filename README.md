@@ -4,7 +4,7 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 
 ## Features
 - [x] Typescript
-- [ ] Express.js
+- [x] Express.js
 - [ ] Nodemon
 - [ ] DotENV
 - [ ] Mocha & chai
@@ -16,3 +16,4 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 ## Tutorial
 - [Episode 0 - Init](./how-to/%5B0%5D%20Init.md)
 - [Episode 1 - Typescript](./how-to/%5B1%5D%20Typescript.md)
+- [Episode 2 - Express](./how-to/%5B2%5D%20Express.md)

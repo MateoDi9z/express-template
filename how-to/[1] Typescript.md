@@ -59,17 +59,6 @@ Add new configurations:
 ```
 
 ### Step 4
-Add this config to `package.json` file to add "@src" alias path to project
-```json
-{
-  ...
-  "_moduleAliases": {
-    "@src": "build/"
-  }
-  ...
-}
-```
-
 Now that typescript and npm is configured we should start installing our dependencies, run command:
 
 ```sh
@@ -106,4 +95,4 @@ build
 And that's all for now, you can try running ```npm run start:dev``` to run ".ts" files in your source folder, or you can build and try compiled files!
 
 
-### [Go to Episode 2]()
+### [Go to Episode 2](./%5B2%5D%20Express.md)
