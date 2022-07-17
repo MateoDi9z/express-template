@@ -66,4 +66,4 @@ And now you can try running it using the start:dev command, but if you want to t
 
 IMPORTANT: Also add `.env` to the `.gitignore` file because it may have delicate data in a near future
 
-### [Go to Episode 3]()
+### [Go to Episode 3](./%5B3%5D%20Nodemon.md)
