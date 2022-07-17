@@ -4,8 +4,20 @@
   "description": "Express Typescript API Template",
   "main": "index.js",
   "scripts": {
-    
+    "start:dev": "ts-node ./src",
+    "start:build": "node ./build",
+    "build": "tsc"
   },
   "author": "MateDi9z",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "_moduleAliases": {
+    "@src": "build/"
+  }
 }
