@@ -1,0 +1,11 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "Express Typescript API Template",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "MateDi9z",
+  "license": "MIT"
+}
