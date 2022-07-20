@@ -28,4 +28,4 @@ npm run start:dev
 ```
 Now the server will restart as soon as we edit a ".ts", ".js" or ".json" file and even you can restart it manually typing `rs` in the console
 
-### [Go to Episode 4]()
+### [Go to Episode 4](./%5B4%5D%20Testing.md)

@@ -6,7 +6,7 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [x] Typescript
 - [x] Express.js
 - [x] Nodemon
-- [ ] TTD (Test-driven development)
+- [x] TTD (Test-driven development)
 - [ ] GitHub Workflow
 - [ ] ESLinter & Prettier
 
@@ -17,3 +17,4 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [Episode 1 - Typescript](./how-to/%5B1%5D%20Typescript.md)
 - [Episode 2 - Express](./how-to/%5B2%5D%20Express.md)
 - [Episode 3 - Nodemon](./how-to/%5B3%5D%20Nodemon.md)
+- [Episode 4 - Testing](./how-to/%5B4%5D%20Testing.md)
