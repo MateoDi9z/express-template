@@ -8,7 +8,7 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [x] Express.js
 - [x] Nodemon
 - [x] TTD (Test-driven development)
-- [ ] GitHub Workflow
+- [x] GitHub Workflow
 - [ ] ESLinter & Prettier
 
 [GitHub Repo](https://github.com/MateoDi9z/express-template)
@@ -19,3 +19,4 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [Episode 2 - Express](./how-to/%5B2%5D%20Express.md)
 - [Episode 3 - Nodemon](./how-to/%5B3%5D%20Nodemon.md)
 - [Episode 4 - Testing](./how-to/%5B4%5D%20Testing.md)
+- [Episode 5 - GitHub Workflows](./how-to/%5B5%5D%20Github%20Workflows.md)
