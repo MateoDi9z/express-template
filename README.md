@@ -1,4 +1,5 @@
 # EXPRESS TEMPLATE
+[![Tests](https://github.com/MateoDi9z/express-template/actions/workflows/tests.yml/badge.svg)](https://github.com/MateoDi9z/express-template/actions/workflows/tests.yml)
 
 Project template with use-full pack of tools and ready-to-use test-driven development environment
 
