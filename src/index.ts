@@ -1,6 +1,6 @@
 import "./moduleResolver"
-import express, { Application, Request, Response, NextFunction } from "express"
-import createServer from "@src/server";
+// import express, { Application, Request, Response, NextFunction } from "express"
+import createServer from "@src/server"
 
 const startServer = () => {
   const app = createServer()

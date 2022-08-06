@@ -1,4 +1,4 @@
-## Episode 4 - Setting up Github workflows
+## Episode 5 - Setting up Github workflows
 
 ### Step 1
 Go to the Actions tab on your Github repo, and click Configure on the Node.js one
@@ -46,4 +46,4 @@ And click on Create status badge. This menu will pop-up
 
 Click then green button to copy text and paste it in your `README.md` file (if you don't have one, create it).
 
-### [Go to Episode 6]()
+### [Go to Episode 6](./%5B6%5D%20Linter.md)
